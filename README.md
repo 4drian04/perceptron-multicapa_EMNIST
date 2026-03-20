@@ -136,12 +136,13 @@ El modelo permite predecir imágenes propias siguiendo estos pasos:
 
 ## 📁 Estructura del proyecto
 
+```
 ├── main.py
 ├── utils.py
 ├── Analizador_Alfanumerico_AGG.h5
 ├── mejores_resultados.csv
 ├── imágenes de prueba (ej: q.png)
-
+```
 
 ---
 
