@@ -14,7 +14,7 @@ import seaborn as sns
 import plotly.graph_objects as go
 import pandas as pd
 from scipy.interpolate import griddata
-from funciones_auxiliares_Adrian_Garcia_Garcia import transpose_and_flatten
+from utils import transpose_and_flatten
 
 
 # Los datos se procesan por lotes, y lo que nos permite esta constante es obtener antes de que se soliciten y tenerlos preparados,
