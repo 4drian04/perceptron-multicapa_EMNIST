@@ -1,7 +1,7 @@
 # 🧠 Analizador Alfanumérico con Perceptrón Multicapa (EMNIST)
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
-![Made with](https://img.shields.io/badge/Made%20with-TensorFlow%20%26%20Keras-ff69b4)
+![Made with](https://img.shields.io/badge/Made%20with-TensorFlow-orange?logo=tensorflow)
 ![Dataset](https://img.shields.io/badge/Dataset-EMNIST-blueviolet)
 ![Keras](https://img.shields.io/badge/Keras-DeepLearning-red)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
